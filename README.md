@@ -1,6 +1,5 @@
 # Basic Network Sniffer
 
-**CodeAlpha Cybersecurity Internship**
 
 ## Overview
 A Python-based network packet sniffer that captures and analyzes live network traffic. Displays source/destination IPs, protocols (TCP/UDP/ICMP/ARP/DNS), flags, payloads, and session statistics.
